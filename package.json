@@ -4,7 +4,7 @@
   "description": "edit hosts so easy",
   "main": "index.js",
   "bin": {
-    "hosts": "bin/edit"
+    "hosts": "bin/edit.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/limichange/hosts#readme",
   "dependencies": {
+    "commander": "^2.11.0",
     "open-in-editor": "^2.2.0",
     "terminal-kit": "^1.13.13"
   }
