@@ -1,5 +1,5 @@
 {
-  "name": "hosts",
+  "name": "hosts-file",
   "version": "0.0.1",
   "description": "edit hosts so easy",
   "main": "index.js",
