@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var openInEditor = require('open-in-editor');
 var editor = openInEditor.configure({
   editor: 'atom'
