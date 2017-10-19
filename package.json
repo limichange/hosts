@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "edit hosts so easy",
   "bin": {
-    "hosts": "bin/edit.js"
+    "hosts": "bin/hosts.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
