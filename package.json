@@ -1,0 +1,22 @@
+{
+  "name": "hosts",
+  "version": "0.0.1",
+  "description": "edit hosts so easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limichange/hosts.git"
+  },
+  "keywords": [
+    "hosts"
+  ],
+  "author": "limichange <limichange@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limichange/hosts/issues"
+  },
+  "homepage": "https://github.com/limichange/hosts#readme"
+}
