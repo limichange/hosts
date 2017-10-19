@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/limichange/hosts/issues"
   },
-  "homepage": "https://github.com/limichange/hosts#readme"
+  "homepage": "https://github.com/limichange/hosts#readme",
+  "dependencies": {
+    "open-in-editor": "^2.2.0"
+  }
 }
