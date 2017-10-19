@@ -1,8 +1,7 @@
 {
   "name": "hosts-file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "edit hosts so easy",
-  "main": "index.js",
   "bin": {
     "hosts": "bin/edit.js"
   },
