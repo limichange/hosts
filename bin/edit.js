@@ -1,6 +1,6 @@
 var openInEditor = require('open-in-editor');
 var editor = openInEditor.configure({
-  editor: 'atom'
+  // editor: 'atom'
 }, function (err) {
   console.error('Something went wrong: ' + err);
 });

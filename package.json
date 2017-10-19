@@ -4,7 +4,7 @@
   "description": "edit hosts so easy",
   "main": "index.js",
   "bin": {
-    "hosts": "bin/index"
+    "hosts": "bin/edit"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
