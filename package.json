@@ -4,6 +4,7 @@
   "description": "edit hosts so easy",
   "bin": {
     "hosts": "bin/hosts.js",
+    "hosts-ls": "bin/hosts-ls.js",
     "hosts-edit": "bin/hosts-edit.js"
   },
   "scripts": {
